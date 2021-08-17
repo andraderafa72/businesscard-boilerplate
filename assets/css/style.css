@@ -187,11 +187,11 @@ main section {
   color: #fff;
   text-decoration: none;
   border-radius: .5rem;
-  max-width: 500px;
+  max-width: 350px;
 }
 
 .qr-code-modal img {
-  max-width: 500px;
+  max-width: 350px;
 }
 
 * {
